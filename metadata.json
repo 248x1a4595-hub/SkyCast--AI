@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast AI - Weather Forecasting & Disaster Alert",
+  "description": "Advanced AI-powered weather forecasting, live radar, air quality intelligence, disaster early alerts, and meteorologist assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
